@@ -17,10 +17,9 @@ This is a team project where collaborators are expected to participate actively 
 ---
 ### ivyharriet2003-sudo
 #### Week 00 Team Collaboration - Team Quantums-Meruit
-Author: Ivy Harriet Isamisi and my partner
+Author: Ivy Harriet Isamisi and my partners
 GitHub: @ivyharriet2003-sudo
-Team Name: Quantums-Meruit
-Team Size: 2 members
+Team Size: 4 members
 Date: September 2026
 
 
