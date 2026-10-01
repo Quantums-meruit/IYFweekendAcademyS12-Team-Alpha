@@ -7,6 +7,9 @@
 | gakuruclaire39 | [ gakuruclaire39](https://github.com/gakuruclaire39-cmd)|
 
 ## Introduction
+
+This project is for Week 00 team collaborators. Looking forward to see participation and commitment as we progress.
+
 ---
 ### Quantums-meruit
 This is a team project where collaborators are expected to participate actively and show their concerns where necessary. the main goal is to help lift each other from the rocky beginner to almost smooth pro.
@@ -20,8 +23,7 @@ Team Name: Quantums-Meruit
 Team Size: 2 members
 Date: September 2026
 
-## Project Description
-This project is for Week 00 team collaboration. We are learning how to work as a team using Git and GitHub. We tested pull requests, merging and reviewing changes. It is practice for 
+
 ---
 
 ### gakuruclaire39
