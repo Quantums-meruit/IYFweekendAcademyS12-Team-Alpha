@@ -16,12 +16,14 @@ This is a team project where collaborators are expected to participate actively 
 
 ---
 ### ivyharriet2003-sudo
-#### Week 00 Team Collaboration - Team Quantums-Meruit
-Author: Ivy Harriet Isamisi and my partner
-GitHub: @ivyharriet2003-sudo
-Team Name: Quantums-Meruit
-Team Size: 2 members
-Date: September 2026
+
+My part is VS Code.
+
+VS Code is where we write code. On my phone I use Spck Editor like VS Code.
+
+In Spck I can write markdown and see colors. I use Termux to do git push.
+
+My branch is add-vscode-section.
 
 
 ---
