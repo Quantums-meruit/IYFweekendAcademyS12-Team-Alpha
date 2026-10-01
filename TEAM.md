@@ -6,13 +6,18 @@
 |Immunetechsolutions|[Immunetechsolutions](https://github.com/Immunetechsolutions)|
 | gakuruclaire39 | [ gakuruclaire39](https://github.com/gakuruclaire39-cmd)|
 
-## Introduction
 
-This project is for Week 00 team collaborators. Looking forward to see participation and commitment as we progress.
+Welcome to our team knowledge base.
 
 ---
 ### Quantums-meruit
 This is a team project where collaborators are expected to participate actively and show their concerns where necessary. the main goal is to help lift each other from the rocky beginner to almost smooth pro.
+
+#### vscode
+Visual Studio Code is a light weight IDE founded by microsoft and provides developers with tools that make managing, debugging and writing code easier.
+
+
+
 
 ---
 ### ivyharriet2003-sudo
