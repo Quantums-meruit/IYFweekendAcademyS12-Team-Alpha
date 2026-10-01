@@ -16,13 +16,24 @@ This is a team project where collaborators are expected to participate actively 
 
 ---
 ### ivyharriet2003-sudo
-#### Week 00 Team Collaboration - Team Quantums-Meruit
-Author: Ivy Harriet Isamisi and my partner
-GitHub: @ivyharriet2003-sudo
-Team Name: Quantums-Meruit
-Team Size: 2 members
-Date: September 2026
+### ivyharriet2003-sudo - My VS Code Setup
 
+**Branch:** add-vscode-section
+
+I use my phone to code because I don't have a laptop. I use **Spck Editor** as my VS Code and **Termux** for git.
+
+What I can do with Spck:
+- edit TEAM.md and other markdown files
+- clone repos from GitHub
+- see colors like real VS Code
+
+In Termux I learned:
+- `git clone` to get repo
+- `git checkout -b add-vscode-section` to create my branch
+- `git add .` and `git commit -m "add vscode section"`
+- `git push` using PAT token
+
+At first push failed but after creating token it worked. This setup helps me contribute to the team project even on
 
 ---
 
