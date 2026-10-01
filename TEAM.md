@@ -4,6 +4,7 @@
 | Quantums-meruit(Lead)| [Quantums-meruit](https://github.com/Quantums-meruit)|
 | ivyharriet2003-sudo  | [ivyharriet2003-sudo](https://github.com/ivyharriet2003-sudo)|
 |Immunetechsolutions|[Immunetechsolutions](https://github.com/Immunetechsolutions)|
+| gakuruclaire39 | [ gakuruclaire39](https://github.com/gakuruclaire39-cmd)|
 
 ## Introduction
 ---
@@ -21,6 +22,10 @@ Date: September 2026
 
 ## Project Description
 This project is for Week 00 team collaboration. We are learning how to work as a team using Git and GitHub. We tested pull requests, merging and reviewing changes. It is practice for 
+---
+
+### gakuruclaire39
+---
 
 ---
 ### Immunetechsolutions
