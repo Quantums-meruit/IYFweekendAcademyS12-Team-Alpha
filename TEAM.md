@@ -21,10 +21,12 @@ Date: September 2026
 
 ## Project Description
 This project is for Week 00 team collaboration. We are learning how to work as a team using Git and GitHub. We tested pull requests, merging and reviewing changes. It is practice for 
+
+---
 ### Immunetechsolutions
 
 
-
+---
 ## Software Development Knowledge Base
 ```
 Software-Development-Knowledge-Base/
