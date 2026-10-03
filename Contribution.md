@@ -1,11 +1,17 @@
-# Team info
-| Members | GitHub links |
-|---------|--------------|
-| Quantums-meruit(Lead)| [Quantums-meruit](https://github.com/Quantums-meruit)|
-| ivyharriet2003-sudo  | [ivyharriet2003-sudo](https://github.com/ivyharriet2003-sudo)|
-|Immunetechsolutions|[Immunetechsolutions](https://github.com/Immunetechsolutions)|
+# Contributors
+
+
+## Team Members
+
+| Name | GitHub | Role | Contributions |
+|------|--------|------|---------------|
+| Quantums-meruit(Lead)|  [Quantums-meruit](https://github.com/Quantums-meruit) | Team Lead | Setup, Header component, API integration |
+| ivyharriet2003-sudo  |[ivyharriet2003-sudo](https://github.com/ivyharriet2003-sudo) | Developer | Footer, Forms, Styling |
+|Immunetechsolutions|[Immunetechsolutions](https://github.com/Immunetechsolutions) | Developer | Navigation, Routing |
 | gakuruclaire39 | [ gakuruclaire39](https://github.com/gakuruclaire39-cmd)|
 
+
+## Contribution Breakdown
 
 Welcome to our team knowledge base.
 
@@ -18,8 +24,6 @@ Visual Studio Code is a light weight IDE founded by microsoft and provides devel
 
 
 
-
----
 ### ivyharriet2003-sudo
 
 My part is VS Code.
@@ -30,8 +34,13 @@ In Spck I can write markdown and see colors. I use Termux to do git push.
 
 My branch is add-vscode-section.
 
+```
+### Team Member 3
+- Created navigation menu
+- Set up React Router
+- Fixed accessibility issues
 
----
+
 
 ### gakuruclaire39
 ---
@@ -41,6 +50,7 @@ My branch is add-vscode-section.
 
 
 ---
+```
 ## Software Development Knowledge Base
 ```
 Software-Development-Knowledge-Base/
